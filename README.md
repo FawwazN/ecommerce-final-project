@@ -41,8 +41,8 @@
 - Biaya produk dan panggilan layanan pelanggan saling berkorelasi, dimana jika pelanggan kita membayar lebih banyak uang untuk produk, mereka cenderung memiliki lebih banyak melakukan customer care calls.
 
 ## Business Insight
-- The data shown that 59.67% orders were not reached on time, while 40.33% of the orders were reached on time.
+- Data menunjukkan bahwa 59,67% pesanan tidak sampai tepat waktu, sementara 40,33% pesanan sampai tepat waktu.
 
-- Many orders were reached late on range 2000 - 4000 grams. Most orders that do not reached on time are orders with a weight in the range of 1250 - 4000 grams, at that weight the proportion that does not reached on time exceeds 90% compared to orders that reached on time
+- Banyak pesanan yang terlambat sampai pada kisaran 2000 - 4000 gram. Mayoritas pesanan yang tidak sampai tepat waktu adalah pesanan dengan berat pada kisaran 1250 - 4000 gram, pada berat tersebut proporsi yang tidak sampai tepat waktu melebihi 90% dibandingkan dengan pesanan yang sampai tepat waktu
 
-- 100% Orders with Discount Above 10% are late. This indicates that offered discount and orders that reached on time have a correlation each other. This may happen because of the amount of orders coming to warehouse increase significantly during discount season.
+- Semua pesanan dengan diskon di atas 10% mengalami keterlambatan. Hal ini mengindikasikan bahwa diskon yang ditawarkan dan pesanan yang sampai tepat waktu memiliki korelasi satu sama lain. Hal ini dapat terjadi karena jumlah pesanan yang masuk ke gudang meningkat secara signifikan pada saat musim diskon.
