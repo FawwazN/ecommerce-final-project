@@ -47,7 +47,7 @@ Recommend collaborating with a fulfillment center or third-party logistics becau
 Implementing preventive measures of order prioritization on predicted late deliveries could boost on-time delivery rates by 10%, and also applying repressive measures to customers who might leave could reduce churn rates by 15% and reduce potential revenue loss by 25%.
 
 ## Contributor
-- [Fawwaz Nurmansyah](https://www.linkedin.com/in/fawwaz-nurmansyah/)
+- [Salsabila Mardhiyah](https://www.linkedin.com/in/salsabila-mardhiyah/)
 - [Nabila Putri Ananda](https://www.linkedin.com/in/nabilaputriananda/)
 - [Abiyyu Tsani](https://www.linkedin.com/in/abiyyutsany/)
 - [Lutfi Santoso](https://www.linkedin.com/in/lutfisantoso/)
